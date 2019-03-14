@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\ritop\downloads\moderngameengine\sphere.h(33): warning C4091: 'static ': ignored on left of 'Sphere::object' when no variable is declared
+c:\users\ritop\downloads\moderngameengine\sphere.h(34): warning C4091: 'static ': ignored on left of 'Sphere::buffer' when no variable is declared
+c:\users\ritop\downloads\moderngameengine\main.cpp(391): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  MDGameEngine.vcxproj -> C:\Users\ritop\Downloads\ModernGameEngine\x64\Debug\MDGameEngine.exe
